@@ -1,0 +1,16 @@
+com\saitej\spring5recipeapp\domain\Difficulty.class
+com\saitej\spring5recipeapp\repositories\RecipeRepository.class
+com\saitej\spring5recipeapp\domain\Recipe.class
+com\saitej\spring5recipeapp\bootstrap\RecipeBootstrap.class
+com\saitej\spring5recipeapp\controllers\IndexController.class
+com\saitej\spring5recipeapp\controllers\RecipeController.class
+com\saitej\spring5recipeapp\domain\Notes.class
+com\saitej\spring5recipeapp\repositories\CategoryRepository.class
+com\saitej\spring5recipeapp\repositories\UnitOfMeasureRepository.class
+com\saitej\spring5recipeapp\services\RecipeServiceImpl.class
+com\saitej\spring5recipeapp\services\RecipeService.class
+com\saitej\spring5recipeapp\Spring5RecipeAppApplication.class
+com\saitej\spring5recipeapp\domain\Category.class
+com\saitej\spring5recipeapp\domain\Ingredient.class
+com\saitej\spring5recipeapp\domain\UnitOfMeasure.class
+com\saitej\spring5recipeapp\bootstrap\DataLoader.class

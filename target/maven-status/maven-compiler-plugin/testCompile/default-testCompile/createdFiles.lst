@@ -1,0 +1,6 @@
+com\saitej\spring5recipeapp\domain\CategoryTest.class
+com\saitej\spring5recipeapp\repositories\UnitOfMeasureRepositoryIT.class
+com\saitej\spring5recipeapp\Spring5RecipeAppApplicationTests.class
+com\saitej\spring5recipeapp\controllers\IndexControllerTest.class
+com\saitej\spring5recipeapp\controllers\RecipeControllerTest.class
+com\saitej\spring5recipeapp\services\RecipeServiceImplTest.class

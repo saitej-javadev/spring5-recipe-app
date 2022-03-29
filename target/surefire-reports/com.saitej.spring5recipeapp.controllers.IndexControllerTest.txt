@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.saitej.spring5recipeapp.controllers.IndexControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.473 s - in com.saitej.spring5recipeapp.controllers.IndexControllerTest
