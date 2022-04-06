@@ -1,0 +1,92 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/sfg_dev
+    username: root
+    password: root
+    jpa:
+      hibernate:
+        ddl-auto: validate
+        database-platform: org.hibernate.dialect.MySQLInnoDBDialect
+        database: mysql
+        show-sql: true
+#        properties:
+#          javax:
+#            persistence:
+#              schema-generation:
+#                create-source: metadata
+#                scripts:
+#                  action: create
+#                  create-target: guru_database_create.sql
+
+
+
+  sql:
+    init:
+      platform: mysql
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
